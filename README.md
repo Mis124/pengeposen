@@ -1,8 +1,3 @@
-# pengeposen
-5 kroner per misset forelæsning
-
-Valentin: 5
-
-Jakob:    
-
-Magnus    
+# Jakob:
+# Magnus:
+# Valentin: 5
