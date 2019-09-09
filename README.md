@@ -1,3 +1,3 @@
-# Jakob:    0
-# Magnus:   0
-# Valentin: 5
+# Jakob:    20
+# Magnus:   5
+# Valentin: 10
